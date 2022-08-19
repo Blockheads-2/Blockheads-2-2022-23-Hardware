@@ -1,4 +1,6 @@
 # Blockheads2022-23 Mechanical Resources
+© Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, David Becker-Peral, Joshua Sugino
+
 Blockheads² 2022-23 season FTC CAD
 
 Blockheads² 2022-23 season FTC Drawings
@@ -15,7 +17,7 @@ Personal use is allowed
 
 Attribution is mandatory
 
-21525 makes no claim of Warranty or Quality for these materials
+21525 makes no claim of Warranty for these materials
 
 
 
