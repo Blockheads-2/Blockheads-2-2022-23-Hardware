@@ -1,7 +1,10 @@
-# Welcome To Team 21525's Hardware Repo!
+# Welcome To Blockheads²'s (21525) Hardware Repo!
+
+## Who we are
+Blockheads² is a FIRST FTC competition team. We build smaller robots using advanced techniques, and are 100% student designed, built, and programmed.
 
 ## Licenses
-Licenses are located in their appropiate home folders, but here's the gist: 
+Licenses are located in their appropiate home folders, but here's the gist:
 
  - All hardware unless otherwise specified is GPLv3, that means open source, attribution
 required, with no warranty. This is a copyleft license, and you must preserve the license. All modifications to the source must be published under the same license. 
