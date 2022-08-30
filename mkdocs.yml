@@ -1,0 +1,44 @@
+site_name: 21525 Hardware
+
+theme:
+  icon: 
+    repo:fontawesome/brands/git-al
+  name: material
+  palette:
+    scheme: slate
+  extra_css:
+    - stylesheets/extra.css
+  font:
+    text: Helvetica Neue
+    code: Roboto Mono
+  language: en
+  logo: assets/21525Logo.svg
+  favicon: assets/21525Logo.svg
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune 
+    - navigation.indexes
+    - navigation.top
+  consent:
+    title: Cookie consent
+    description: >- 
+      Cookies help us use google fonts which make my life setting up this website easier
+      Consider enabling them so font's arent broke, and we can show off to the judges how 
+      many people came and saw our website!
+    actions:
+      - accept
+      - manage
+      - reject
+extra:
+    analytics:
+      provider: google
+      property: G-XXXXXXXXXX
+copyright: >
+    Copyright &copy; 2022 Grady Conwell –
+    <a href="#__consent">Change cookie settings</a>
+
+plugins:
+  - search
+repo_url: https://github.com/Blockheads-2/Blockheads2022-23-Hardware
