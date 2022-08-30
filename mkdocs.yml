@@ -6,6 +6,7 @@ theme:
   name: material
   palette:
     scheme: slate
+    primary: blue
   extra_css:
     - stylesheets/extra.css
   font:
