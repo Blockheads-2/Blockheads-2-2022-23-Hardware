@@ -1,4 +1,4 @@
-# Blockheads2022-23 Mechanical Resources
+# Blockheads2022-23 Hardware Resources
 © Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, David Becker-Peral, Joshua Sugino
 
 Blockheads² 2022-23 season FTC CAD
