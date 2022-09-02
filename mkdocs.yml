@@ -24,6 +24,8 @@ theme:
     - navigation.tabs
     - navigation.prune 
     - navigation.indexes
+    - navigation.expand
+    - content.tabs.link
   consent:
     title: Cookie consent
     description: >- 

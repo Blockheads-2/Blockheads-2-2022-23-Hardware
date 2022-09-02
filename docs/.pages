@@ -1,3 +1,4 @@
 nav: 
-    - index.md
-    - Swerve.md
+    - section:
+        - index.md
+        - Swerve.md
