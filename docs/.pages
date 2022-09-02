@@ -1,7 +1,7 @@
 nav: 
     - Intro:
         - index.md
-        - Contact.md
+        - contact.md
     - Hardware:
         - Swerve.md
     
