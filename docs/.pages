@@ -1,4 +1,7 @@
 nav: 
-    - section:
+    - Intro:
         - index.md
+    - Hardware:
         - Swerve.md
+    - Other: 
+        - Other.md
