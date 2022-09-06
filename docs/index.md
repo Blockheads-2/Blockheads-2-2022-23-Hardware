@@ -17,5 +17,3 @@ Blockheads² strives to be as transparent as possible in all our actions. All ha
  - We encourage all teams to embrace the FIRST FTC competition as a community learning exercise, where new teams get to build off their predecesors. 
  - We encourage all teams to also publish and share their source as a resource for the growing FIRST FTC community
 
-
-![MachiningSwerve](swervemachinepic1.png){ align=left }
