@@ -3,6 +3,14 @@ markdown_extensions:
   - attr_list
   - md_in_html
   
+
+pages: 
+  - home: 
+    - 'index.md'
+    - 'contact.md'
+  - Hardware:
+    - 'Lifter.md'
+    - 'Swerve.md'
 theme:
   icon: 
     repo:fontawesome/brands/git-al
