@@ -1,8 +1,9 @@
 nav: 
     - Home: index.md
-    - 'Intro':
-        - contact.md
-    - 'Hardware':
-        - Swerve.md
-        - Lifter.md
+    - Welcome:
+        - Page 1: Intro/index.md
+        - Page 2: Intro/contact.md
+    - Hardware:
+        - Page 1: Hardware/Swerve.md
+        - Page 2: Hardware/Lifter.md
     
