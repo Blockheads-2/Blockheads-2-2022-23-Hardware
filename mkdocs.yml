@@ -51,9 +51,9 @@ repo_name: Blockheads-2/Blockheads2022-23-Hardware
 
 nav:     
     - About Us:
-        - About Us: Intro/index.md
+        - About Us: index.md
     - Hardware:
-        - MiniSwerve: Hardware/Swerve.md
-        - Robot Arm: Hardware/Lifter.md
+        - MiniSwerve: Swerve.md
+        - Robot Arm: Lifter.md
     - Contact: 
-        - Contact: contact/index.md
+        - Contact: index.md
