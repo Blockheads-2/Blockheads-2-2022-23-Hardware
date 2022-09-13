@@ -21,10 +21,10 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
-    - navigation.prune 
     - navigation.indexes
+    - navigation.tabs
     - navigation.expand
+    - navigation.tabs.sticky
     - content.tabs.link
   consent:
     title: Cookie consent
@@ -48,3 +48,12 @@ plugins:
   - search
 repo_url: https://github.com/Blockheads-2/Blockheads2022-23-Hardware
 repo_name: Blockheads-2/Blockheads2022-23-Hardware
+
+nav:     
+    - About Us:
+        - About Us: Intro/index.md
+    - Hardware:
+        - MiniSwerve: Hardware/Swerve.md
+        - Robot Arm: Hardware/Lifter.md
+    - Contact: 
+        - Contact: contact/index.md
