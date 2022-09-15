@@ -5,7 +5,7 @@ Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![pictureoflamp](assets/Lampdiagram.png){ align=left }
 
 <figure markdown>
-    ![gifofarmmoving](assets/LittleArm.gif){ align=left }{ width="300" }
+    ![gifofarmmoving](assets/LittleArm.gif){ width="300" }
     <figcaption>Here's how it looks in motion (demo model)</figcaption>
 </figure>
 
