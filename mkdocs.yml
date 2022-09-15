@@ -2,6 +2,9 @@ site_name: 21525 Hardware
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      
 
 theme:
   icon: 
