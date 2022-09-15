@@ -1,7 +1,5 @@
 # Lifter 
 
-## Warning: This hardware is work in progress, you can download the latest prototype hardware source on the git
-
 ## Inspired by a Lamp 
 Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![pictureoflamp](assets/Lampdiagram.png){ align=left }
@@ -9,9 +7,11 @@ Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![gifofarmmoving](assets/LittleArm.gif){ align=left }
 Here's how it looks in motion (demo model)
 
-##Download the Latest CAD
+
+## Download the Latest CAD
 (Pulled right from our team files, may be experimental)
 <iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e433ce4fa157145dd8c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 ## Project Goals
 - [ ] Lightest arm possible for extension distance (Unknown)
@@ -26,6 +26,7 @@ Here's how it looks in motion (demo model)
 - [x] Easy to modify
 - [x] Limited expensive COTS parts
 - [x] Use off the shelf raw materials
+
 
 ## Implemented Features
 - Bushings!
