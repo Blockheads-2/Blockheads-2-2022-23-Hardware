@@ -5,8 +5,8 @@ Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![pictureoflamp](assets/Lampdiagram.png){ align=left }
 
 <figure markdown>
-  ![Image title](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>Image caption</figcaption>
+  ![Image title](assets/LittleArm.gif){ width="300" }
+  <figcaption>A demo of the motion this kinematic provides</figcaption>
 </figure>
 
 ## Download the Latest CAD
