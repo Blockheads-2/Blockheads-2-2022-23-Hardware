@@ -5,8 +5,10 @@ Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![pictureoflamp](assets/Lampdiagram.png){ align=left }
 
 ![gifofarmmoving](assets/LittleArm.gif){ align=left }
+![gifofarmmoving](assets/LittleArm.gif){ align=left }{ width="800" }
+
 Here's how it looks in motion (demo model)
-<br/><br/>
+
 ## Download the Latest CAD
 (Pulled right from our team files, may be experimental)
 <iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e433ce4fa157145dd8c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
