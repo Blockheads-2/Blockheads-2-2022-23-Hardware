@@ -32,6 +32,8 @@ theme:
     - navigation.expand
     - navigation.tabs.sticky
     - content.tabs.link
+  
+extra:
   consent:
     title: Cookie consent
     description: >- 
@@ -42,8 +44,7 @@ theme:
       - accept
       - manage
       - reject
-extra:
-    analytics:
+  analytics:
       provider: google
       property: G-VXSFKQ315X
 copyright: >
