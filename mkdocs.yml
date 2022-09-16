@@ -47,7 +47,7 @@ extra:
       provider: google
       property: G-XXXXXXXXXX
 copyright: >
-    Copyright &copy; 2022 Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, David Becker-Peral, Joshua Sugino –
+    Copyright &copy; 2022 Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, Joshua Sugino, David Becker-Peral, Noah Balderson –
     <a href="#__consent">Change cookie settings</a>
 
 plugins:
