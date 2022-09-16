@@ -2,7 +2,7 @@
 
 ## Inspired by a Lamp 
 Its got its kinematics completely "borrowed" from a lamp (weird right?)
-![pictureoflamp](assets/Lampdiagram.png){ align=left }
+![pictureoflamp](assets/Lampdiagram.png){ align=left }{ width="640" }
 
 <figure markdown>
   ![Image title](assets/LittleArm.gif){ width="300" }
