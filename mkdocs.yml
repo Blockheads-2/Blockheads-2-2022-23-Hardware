@@ -37,9 +37,8 @@ extra:
   consent:
     title: Cookie consent
     description: >- 
-      Cookies help us use google fonts which make my life setting up this website easier
-      Consider enabling them so font's arent broke, and we can show off to the judges how 
-      many people came and saw our website!
+      Consider Enabling cookes so that we know you were here, and we can show off to the judges how 
+      many people came and learned from our website!
     actions:
       - accept
       - manage
