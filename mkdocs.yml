@@ -32,22 +32,20 @@ theme:
     - navigation.expand
     - navigation.tabs.sticky
     - content.tabs.link
-  
-extra:
   consent:
     title: Cookie consent
     description: >- 
-      Consider Enabling cookes so that we know you were here, and we can show off to the judges how 
-      many people came and learned from our website!
+      Cookies let us figure if you were here or not. That way we can see how many people learned from our website!
     actions:
       - accept
       - manage
       - reject
-  analytics:
+extra:
+    analytics:
       provider: google
-      property: G-VXSFKQ315X
+      property: G-XXXXXXXXXX
 copyright: >
-    Copyright &copy; 2022 Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, Joshua Sugino, David Becker-Peral, Noah Balderson –
+    Copyright &copy; 2022 Grady Conwell, Sanjith Cherumandanda, Victor He, Warren Lam, Robyn Lam, David Becker-Peral, Joshua Sugino –
     <a href="#__consent">Change cookie settings</a>
 
 plugins:
