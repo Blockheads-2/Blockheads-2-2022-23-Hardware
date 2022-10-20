@@ -26,6 +26,8 @@ Machining prototypes of the Swerve system.
 ## Download the latest CAD
 This is pulled right from Fusion, so it may be experimental or untested. But it should be the latest. Find releases of just the "swerve module" in its repo, here: https://github.com/TheDragonlizard/MiniSwerve  
 
+<iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e43955c17b2f02d9e36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Drawbacks
 
 Unfortunately there are some downsides, and we aren't here to hide them. So far we've struggled with: 
@@ -36,6 +38,3 @@ Unfortunately there are some downsides, and we aren't here to hide them. So far 
 - [ ] Ease of manufacturing
 
 Hopefully as a team we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackel these drawbacks too!
-
-
-<iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e43955c17b2f02d9e36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
