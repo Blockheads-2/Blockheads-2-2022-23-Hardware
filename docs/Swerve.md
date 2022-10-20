@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 
 # MiniSwerve
+![Swervepod2](assets/IMG_3590.png){ align=left }
 
 ## Our Drivetrain: What is swerve?
 Generally any Swerve system refers to a 360° wheel steering. Our flavor of swerve is often called "differential swerve" refering to how the motors work together to orient, and drive the wheel. We'll update our sister site for software with more info on how we control this. 
@@ -28,10 +29,12 @@ This is pulled right from Fusion, so it may be experimental or untested. But it 
 ## Drawbacks
 
 Unfortunately there are some downsides, and we aren't here to hide them. So far we've struggled with: 
+
 - [ ] Ground Clearance
 - [ ] Maintenance
 - [ ] Ease of assembly
 - [ ] Ease of manufacturing
+
 Hopefully as a team we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackel these drawbacks too!
 
 
