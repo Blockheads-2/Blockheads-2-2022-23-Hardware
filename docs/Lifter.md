@@ -5,10 +5,10 @@
 
 ## Inspired by a Lamp 
 Its got its kinematics completely "borrowed" from a lamp (weird right?)
-![pictureoflamp](assets/Lampdiagram.png){ align=left }{ width="640" }
+![pictureoflamp](assets/Lampdiagram.png){ align=left }{ width="500" }
 
 <figure markdown>
-  ![Image title](assets/LittleArm.gif){ width="300" }
+  ![gifofarmmoving](assets/LittleArm.gif){ width="300" }
   <figcaption>A demo of the motion this kinematic provides</figcaption>
 </figure>
 
