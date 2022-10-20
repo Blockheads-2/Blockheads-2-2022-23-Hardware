@@ -23,3 +23,7 @@ We'll be featuring docs on our src code as well. Stay tuned.
     * We try to incorporate innovative solutions in a accesible way, in a manner that lowers technical and financial the barrier of entry for performance hardware and software.
 * Always available to help
     * We'll answer any of your questions about our CAD, Code, or documentation to the best of our abilities. Feel free to shoot us a message. 
+
+## Attributions
+* We use Inter, an awesome open source font by Rasmus Andersson. Check it out here: https://rsms.me/inter/
+* Our CAD contains downloaded reference geometry from REV, GOBIlDA, AndyMark & Misumi. 
