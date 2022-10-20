@@ -4,10 +4,12 @@
     --md-primary-fg-color--dark:  #AACFE8;
 }
 
-:root { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  :root { font-family: 'Inter var', sans-serif; }
-}
 :root {
     --md-text-font: "Inter"; 
 }
+@font-face {
+    font-family: "InterGC";
+    src: "https://rsms.me/inter/inter.css";
+  }
+  
+  
