@@ -5,7 +5,7 @@
 
 ## Inspired by a Lamp 
 Its got its kinematics completely "borrowed" from a lamp (weird right?)
-![pictureoflamp](assets/Lampdiagram.png){ align=left }{ width="500" }
+![pictureoflamp](assets/Lampdiagram.png){ align=left }
 
 <figure markdown>
   ![gifofarmmoving](assets/LittleArm.gif){ width="300" }
