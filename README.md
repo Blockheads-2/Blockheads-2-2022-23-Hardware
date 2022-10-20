@@ -19,7 +19,7 @@ Personal use is allowed
 
 Attribution is mandatory
 
-21525 makes no claim of Warranty for these materials
+21525 makes no claim of warranty for these materials
 
 
 
