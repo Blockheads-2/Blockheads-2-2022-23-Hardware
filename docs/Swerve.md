@@ -11,10 +11,12 @@ To create a comeptitive drive train, we put two identical Miniswerve 'pods' next
 
 But if Miniswerve is a Mecanum replacement, why bother with something new?
 Miniswerve should be better than a comparable mecanum drivetrain in a few ways: 
+
 - [x] More Traction 
 - [x] Equal top speed & torque in all directions
 - [x] Absolute control over wheel position
 - [x] Higher Agility
+
 
 ## Currently testing, more details and info coming. We are also rapidly iterating on the gear design at the moment too! 
 ![MachiningSwerve](assets/swervemachinepic1.png){ align=left }
