@@ -19,7 +19,7 @@ theme:
   extra_css:
     - stylesheets/extra.css
   font:
-    text: Helvetica Neue
+    text: Inter
     code: Roboto Mono
   language: en
   logo: assets/21525Logo.svg
