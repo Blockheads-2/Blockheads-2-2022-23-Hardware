@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
 # Contact
 
 ## Want to sponsor? Reach out to our Club LCEC at lacanadaengineeringclub.org

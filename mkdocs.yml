@@ -61,3 +61,5 @@ nav:
         - Robot Arm: Lifter.md
     - Contact: 
         - Contact: Contact.md
+extra_css:
+  - stylesheets/extra.css
