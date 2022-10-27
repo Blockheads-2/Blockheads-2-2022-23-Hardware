@@ -29,7 +29,7 @@ Unfortunately there are some downsides, and we aren't here to hide them. So far 
 - [ ] Ease of assembly
 - [ ] Ease of manufacturing
 
-Hopefully as a team we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackel these drawbacks too!
+Hopefully as a team we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackle these drawbacks too!
 
 ## From Concept to Robot
 
