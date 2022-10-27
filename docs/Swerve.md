@@ -37,15 +37,13 @@ Miniswerve is our teams biggest accomplishment so far, even though its not finis
 We've built two pods, gone through 3 hardware iterations, and began to tackle the enormous task of programming swerve (Ocotober). 
 
 <figure markdown>
-  ![firstdesign](assets/swervev1.png){ width="400" }
-  <figcaption>April 13, 2022: First Design
-  Initial concept of gears, and choosing underlying ratios, much of this geometry is preserved in the final drawings. Also includes a 90mm mockup wheel. </figcaption>
+  ![firstdesign](assets/swervev1.png){ width="500" }
+  <figcaption>April 13, 2022: Initial concept of gears, and choosing underlying ratios, much of this geometry is preserved in the final drawings. Also includes a 90mm mockup wheel. </figcaption>
 </figure>
 
 <figure markdown>
-  ![firstdesign](assets/swervev2.png){ width="400" }
-  <figcaption>April 15, 2022: Fleshing out the footprint
-  Initial concept of mounting plates, first introduction of drive shafts and gears. This is where Miniswerve started to take form. On the same day, the definining difference for MiniSwerve was introduced: Thrust bearings. We'll have a whole section on this soon. </figcaption>
+  ![firstdesign](assets/swervev2.png){ width="500" }
+  <figcaption>April 15, 2022: Initial concept of mounting plates, first introduction of drive shafts and gears. This is where Miniswerve started to take form. On the same day, the definining difference for MiniSwerve was introduced: Thrust bearings. We'll have a whole section on this soon. </figcaption>
 </figure>
 
 
