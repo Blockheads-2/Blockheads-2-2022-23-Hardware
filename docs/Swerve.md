@@ -10,7 +10,7 @@ Generally any Swerve system refers to a 360° wheel steering. Our flavor of swe
 
 ## Big Picture: Swerve Robot
 
-To create a comeptitive drive train, we put two identical Miniswerve 'pods' next to each other.Why only 2? Each of our swerve pods require two full size motors, and a classic mecanum drivetrain is 4 motors. Miniswerve is designed to be a cost comparable replacement for Mecanum, so not taking any more motors than absolutely neccesary is important: it lowers cost, complexity, and makes replacement of existing mecanum systems more accessible. 
+To create a comeptitive drive train, we put two identical Miniswerve 'pods' next to each other. Why only 2? Each of our swerve pods require two full size motors, and a classic mecanum drivetrain is 4 motors. Miniswerve is designed to be a cost comparable replacement for Mecanum, so not taking any more motors than absolutely neccesary is important: it lowers cost, complexity, and makes replacement of existing mecanum systems more accessible. 
 
 But if Miniswerve is a Mecanum replacement, why bother with something new?
 Miniswerve should be better than a comparable mecanum drivetrain in a few ways: 
