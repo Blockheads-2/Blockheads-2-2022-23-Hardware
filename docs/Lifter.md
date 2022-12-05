@@ -3,6 +3,14 @@
 
 # Lifter 
 
+## Why lift? 
+This years goal for FTC is to move cones from the ground too the top of posts. We had a couple requirements: 
+- The lifter had to be stiff, with little side to side play
+- The lifter had use less than 4 motors, and less than 4 servos
+- The lifter had to be repeatable, and have good accuracy
+- The lifter need to be as fast as possible. 
+
+
 ## Inspired by a Lamp 
 Its got its kinematics completely "borrowed" from a lamp (weird right?)
 ![pictureoflamp](assets/Lampdiagram.png){ align=left }
