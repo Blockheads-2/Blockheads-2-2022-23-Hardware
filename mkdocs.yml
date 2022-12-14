@@ -58,7 +58,7 @@ nav:
         - About Us: index.md
     - Hardware:
         - MiniSwerve: Swerve.md
-        - Robot Arm: Lifter.md
+        - Arm: Lifter.md
     - Contact: 
         - Contact: Contact.md
 extra_css:
