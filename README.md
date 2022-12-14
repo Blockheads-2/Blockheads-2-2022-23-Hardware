@@ -13,7 +13,7 @@ Blockheads² 2022-23 season FTC Technical Documentation
 
 This repository is licensed under GNU General Public License v3.0 as Open source hardware. 
 
-Commercial use is explicitly allowed
+Commercial use is allowed
 
 Personal use is allowed
 
