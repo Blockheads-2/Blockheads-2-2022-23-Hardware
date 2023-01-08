@@ -60,9 +60,9 @@ If you are nterested in our progress, have questions, or have feedback on our de
 Machining prototypes of the Swerve system. 
 
 ## Download the latest CAD
-This is pulled right from Fusion, so it may be experimental or untested. But it should be the latest. Find releases of just the "swerve module" in its repo, here:  
+This is pulled right from Fusion, so it may be experimental or untested. But it should be the latest. Find releases of just the bare "MiniSwerve module" in its repo, here:  
 [MiniSwerve](https://github.com/TheDragonlizard/MiniSwerve ){ .md-button .md-button--primary }
 
-<iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e43955c17b2f02d9e36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e43955c17b2f02d9e36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 

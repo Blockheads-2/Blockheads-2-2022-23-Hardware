@@ -9,7 +9,8 @@
 </figure>
 
 ## Code coming soon! 
-We'll be featuring docs on our src code as well. Stay tuned.  
+We'll be featuring docs on our src code as well. Stay tuned. For now, you can download our source on the 21525 Software Repo: 
+[21525 Software]){ .md-button .md-button--primary }
 
 ## Team 21525 Quick Facts
 * Formed in 2022, first season 2022-23
@@ -25,6 +26,10 @@ We'll be featuring docs on our src code as well. Stay tuned.
     * We'll answer any of your questions about our CAD, Code, or documentation to the best of our abilities. Feel free to shoot us a message.
     * For hardware questions, feel free to directly email our hardware lead at gconwell@lcanadaengineeringclub.org
     
+## Get Our Latest Full Robot CAD
+This is pulled right from F360, and it is the latest that any member of our team has worked on. Be warned, parts may be untested, use at your own risk, or simply shoot us a message!
+* This document is yours to share, modify, and distribute, so long as you attribute the authors (Team Members of 21525) and follow the same terms when you share, modify, distribute, or sell this IP. Read the entirety of our license on the git (GPLv3).
+<iframe src="https://icloud11636.autodesk360.com/shares/public/SH35dfcQT936092f0e43955c17b2f02d9e36?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Attributions
 * We use Inter, an awesome open source font by Rasmus Andersson. Check it out here: https://rsms.me/inter/
