@@ -37,7 +37,7 @@ Hopefully as a team we iterate we can eliminate or mitigate these issues, and pe
 ## From Concept to Robot
 
 Miniswerve is our teams biggest accomplishment so far, even though its not finished. 
-We've built two pods, gone through 3 hardware iterations, and began to tackle the enormous task of programming swerve. 
+We've built two pods, gone through 3 major hardware iterations, countless revisions, and tackled the enormous task of programming swerve from scratch. 
 
 <figure markdown>
   ![firstdesign](assets/swervev1.png){ width="500" align="center"}
