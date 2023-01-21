@@ -32,7 +32,7 @@ Unfortunately there are some downsides, and we aren't here to hide them. So far 
 - [ ] Ease of assembly
 - [ ] Ease of manufacturing
 
-Hopefully as a team we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackle these drawbacks too!
+Hopefully as we iterate we can eliminate or mitigate these issues, and perhaps teams that choose to develop evolutions of MiniSwerve will come up with unique ways to tackle these drawbacks too!
 
 ## From Concept to Robot
 
@@ -45,10 +45,34 @@ We've built two pods, gone through 3 major hardware iterations, countless revisi
 </figure>
 
 <figure markdown>
-  ![firstdesign](assets/swervev2.png){ width="500" align="center"}
-  <figcaption>April 15, 2022: Initial concept of mounting plates, first introduction of drive shafts and gears. This is where Miniswerve started to take form. On the same day, the definining difference for MiniSwerve was introduced: Thrust bearings. We'll have a whole section on this soon. </figcaption>
+  ![seconddesign](assets/swervev2.png){ width="500" align="center"}
+  <figcaption>April 15, 2022: Initial concept of mounting plates, first introduction of drive shafts and gears. This is where Miniswerve started to take form. On the same day, the definining difference for MiniSwerve was introduced: Thrust bearings. </figcaption>
 </figure>
 
+<figure markdown>
+  ![thirddesign](assets/swervev3.png){ width="500" align="center"}
+  <figcaption>April 27, 2022: The first iteration of the suspension system is introduced. Here suspension refers to keeping the gears suspended within the module. Unfortunately, this implementation was fraught with issues, and led to routine binding of the modules. </figcaption>
+</figure>
+
+<figure markdown>
+  ![fourthdesign](assets/swervev4.png){ width="500" align="center"}
+  <figcaption>May 3, 2022: The drives are given their structure, 3 55mm aluminum extrusions, bolted through the plates at both ends. These will hold the module in tension, and give it the rigidity it needs to transfer force from the wheels, to the bearings, to the frame. After this point, the concept is set aside for a bit, as its future team was yet to be fully formed.  </figcaption>
+</figure>
+
+<figure markdown>
+  ![fifthdesign](assets/swervev5.png){ width="500" align="center"}
+  <figcaption>June 6, 2022: The drive system's primary gearing is manufactured for the first time. While these gears would never see competition use, they were key in establishing the viability of the concept. </figcaption>
+</figure>
+
+<figure markdown>
+  ![sixthdesign](assets/swervev6.png){ width="500" align="center"}
+  <figcaption>June 28, 2022: Team 21525 starts meeting for the first times, sporadically, as we prepare for the season. Just days earlier, we chose to adopt the experimental swerve drive as our 22-23 drivetrain. In this iteration, changes are mostly focused on preparing the main CNC machined plates for manufacture.  </figcaption>
+</figure>
+
+<figure markdown>
+  ![seventhdesign](assets/swervev7.png){ width="500" align="center"}
+  <figcaption>August 3, 2022: In this snapshot, the primary focus was designing the wheel, instead of leaving as a simple 92mm placeholder. We chose to use a 6 spoke PET wheel with a TPU tire. <figcaption>
+</figure>
 
 ## Today
 
