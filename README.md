@@ -12,7 +12,9 @@ Blockheads² 2022-23 season FTC Technical Documentation
 -----------------------------------------------------------------------
 Want to download the latest CAD? Jump to our docs website here: https://blockheads-2.github.io/Blockheads-2-2022-23-Hardware/ and get the latest right from Fusion360. (WARNING: MAY BE UNTESTED)
 -----------------------------------------------------------------------
-
+-----------------------------------------------------------------------
+Interested in where we bought parts? Download our full BOM & Team budget here: https://1drv.ms/x/s!AoOwt4huaaeVgQTRKv8MmMKJuonA 
+-----------------------------------------------------------------------
 This repository is licensed under GNU General Public License v3.0 as Open source hardware. 
 
 Commercial use is allowed
